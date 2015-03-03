@@ -1,0 +1,73 @@
+﻿<?xml version="1.0"?> 
+<Banner 
+	bannerWidth=""
+	bannerHeight=""
+
+	textSize="20"
+	textColor="red"
+	textAreaWidth=""
+	textLineSpacing="1"	
+	textLetterSpacing="0.5"	
+	textMarginLeft="12"
+	textMarginBottom="25"
+	
+	transitionType="3"
+	transitionDelayTimeFixed="2" 
+	transitionDelayTimePerWord=".5"
+	transitionSpeed="10"
+	transitionBlur="yes"
+	transitionRandomizeOrder="no"	
+	
+	showTimerClock="no"
+	showBackButton="no"
+	showNumberButtons="no"
+	showNumberButtonsAlways="no"
+	showNumberButtonsHorizontal="no"
+	showNumberButtonsAscending="no"
+	autoPlay="yes"
+	
+	>
+	
+	<item image="Images/004.jpg" 
+		link=""
+		target="_blank"
+		textBlend="no">
+	</item>
+	<item image="Images/001.jpg" 
+		link=""
+		target="_blank"
+		textBlend="no">
+	</item>
+	<item image="Images/002.jpg" 
+		link=""
+		target="_blank"
+		textBlend="no">
+	</item>
+	<item image="Images/003.jpg" 
+		link=""
+		target="_blank"
+		textBlend="no">
+	</item>
+	<!--<item image="Images/004.jpg" 
+		link=""
+		target="_blank"
+		textBlend="no">
+	</item>
+	<item image="Images/005.jpg" 
+		link=""
+		target="_blank"
+		textBlend="no">
+	</item>
+	<item image="Images/006.jpg" 
+		link=""
+		target="_blank"
+		textBlend="no">
+	</item>
+	<item image="Images/007.jpg" 
+		link=""
+		target="_blank"
+		textBlend="no">
+	</item>-->
+	
+</Banner>
+

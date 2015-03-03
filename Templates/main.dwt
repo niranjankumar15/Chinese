@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>:: Chinese Learning Course ::</title>
+<!-- TemplateEndEditable -->
+<link href="../CSS/chinese.css" rel="stylesheet" type="text/css" />
+
+<!-- TemplateBeginEditable name="head" -->
+<style type="text/css">
+.navLink1
+{
+	background:#6C0;
+	color:#FFF;
+	box-shadow:0 0 15px #333;
+}
+.navLinkF1
+{
+	color:#000;
+}
+</style>
+<!-- TemplateEndEditable -->
+<script src="../Scripts/swfobject_modified.js" type="text/javascript"></script>
+</head>
+
+<body>
+<div class="wrapper">
+    <div class="main_div">
+    	<div class="header">
+        	<a href="../index.html" class="logo fl_lt"></a>
+        	<a href="../index.html" class="home_link fl_lt tShadow bold"></a>
+            <div class="clear"></div>          
+        </div>
+    </div>
+</div>
+<div class="main_div padd-tp">
+    <div class="navLinks">
+        <a href="../index.html" class="navLink navLink1">Home</a>
+        <a href="../about.html" class="navLink navLink2">Who We Are</a>
+        <a href="../services.html" class="navLink navLink3">What We Offer</a>
+        <a href="../register.html" class="navLink navLink4">Registration</a>
+        <a href="../contact.html" class="navLink navLink5">Contact Us</a>
+        <a href="../schedule.html" class="navLink navLink6">Class Schedule</a>
+        <a href="../feedback.html" class="navLink navLink7">Students Say</a>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="main_div shadow round contents_div">
+	<div class="content padd round">
+    	<div>
+            <div class="fl_lt round glow">
+           	  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="407" height="184" id="FlashID" title="slide">
+            	  <param name="movie" value="../001.swf" />
+            	  <param name="quality" value="high" />
+            	  <param name="wmode" value="opaque" />
+            	  <param name="swfversion" value="8.0.35.0" />
+            	  <!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don’t want users to see the prompt. -->
+            	  <param name="expressinstall" value="../Scripts/expressInstall.swf" />
+            	  <!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
+            	  <!--[if !IE]>-->
+            	  <object type="application/x-shockwave-flash" data="../001.swf" width="407" height="184">
+            	    <!--<![endif]-->
+            	    <param name="quality" value="high" />
+            	    <param name="wmode" value="opaque" />
+            	    <param name="swfversion" value="8.0.35.0" />
+            	    <param name="expressinstall" value="../Scripts/expressInstall.swf" />
+            	    <!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
+            	    <div>
+            	      <h4>Content on this page requires a newer version of Adobe Flash Player.</h4>
+            	      <p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" width="112" height="33" /></a></p>
+          	      </div>
+            	    <!--[if !IE]>-->
+          	    </object>
+            	  <!--<![endif]-->
+          	  </object>
+          </div>
+            <div class="fl_lt top_container mrgnLT bg_white mrgnRT round shadow">
+                <div class="htext center padd-tp tShadow">Quick Enquiry</div>
+                <div class="paddLT pad-tp">
+                	<form class="quick_form" name="quick_contact" id="quick_contact" method="post" action="../quickmail.asp">
+                        <div class="paddTP">
+                            <label for="name" class="label">Name : *</label>
+                            <input type="text" name="nameS" max="50" id="nameS" placeholder="Your Name" class="textfld round" required>
+                        </div>
+                        <div class="paddTP">
+                            <label for="email" class="label">Email : *</label>
+                            <input type="email" name="emailS" max="60" id="emailS" placeholder="Your Email" class="textfld round" required>
+                        </div>
+                        <div class="paddTP">
+                            <label for="phone" class="label">Contact No : </label>
+                            <input type="tel" name="phoneS" id="phoneS" placeholder="Your Contact No." max="10" class="textfld round">
+                        </div>
+                        <div class="paddTP">
+                            <label class="label">&nbsp;</label>
+                            <input name="submitS" type="submit" value="Submit" height="25" class="submit">
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="fl_lt top_container round bg_white shadow top_container_last">
+                <div class="htext center tShadow">Quick Contact</div>        
+                <div class="padd">
+                	<span class="ico call_ico">+91-98912 82370</span>
+                	<a href="mailto:mail@chineselearningcourse.com" class="ico mail_ico mrgn-tp ulink">mail@chineselearningcourse.com</a>
+                	<a href="../index.html" class="ico web_ico mrgn-tp ulink">www.chinselearningcourse.com</a>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+  	</div>	
+</div>
+
+<div class="main_div shadow round">	
+	
+    <div class="bg_silver"><!-- TemplateBeginEditable name="main" --><!-- TemplateEndEditable -->
+    <!--<div class="padd padd-lt">
+        	<div class="fl_lt thumb thumb1 mrgn-rt"></div>
+        	<div class="fl_lt thumb thumb2 mrgn_lt mrgn-rt"></div>
+        	<div class="fl_lt thumb thumb3 mrgn_lt mrgn-rt"></div>
+        	<div class="fl_lt thumb thumb4 mrgn_lt mrgn-rt"></div>
+        	<div class="fl_lt thumb thumb5 mrgn_lt mrgn-rt"></div>
+        	<div class="fl_lt thumb thumb6 mrgn_lt"></div>
+            <div class="clear"></div>
+        </div>
+     </div>-->
+</div>
+<div class="wrapper footer">
+    <div class="main_div">
+        <div class="">
+            <div class="navLinksF tShadow">
+                <a href="../index.html" class="navLinkF navLinkF1">Home</a>
+                <a href="../about.html" class="navLinkF navLinkF2">Who We Are</a>
+                <a href="../services.html" class="navLinkF navLinkF3">What We Offer</a>
+                <a href="../register.html" class="navLinkF navLinkF4">Registration</a>
+                <a href="../contact.html" class="navLinkF navLinkF5">Contact Us</a>
+                <a href="../schedule.html" class="navLinkF navLinkF6">Class Schedule</a>
+                <a href="../feedback.html" class="navLinkF navLinkF7 lastLink">Students Say</a>
+            </div>
+          <div class="clear center white"><br />&copy: 2012 www.chineselearningcourse.com.&nbsp;&nbsp;&nbsp;&nbsp;All Rights Reserved.</div>
+        </div>    	
+    </div>
+</div>
+<script type="text/javascript">
+swfobject.registerObject("FlashID");
+</script>
+</body>
+</html>

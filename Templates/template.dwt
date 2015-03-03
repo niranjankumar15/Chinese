@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>:: Chinese Learning Course ::</title>
+<link href="CSS/chinese.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+.navLink1
+{
+	background:#6C0;
+	color:#FFF;
+	box-shadow:0 0 15px #333;
+}
+.navLinkF1
+{
+	color:#000;
+}
+</style>
+</head>
+
+<body>
+<div class="main_div">
+	<div class="header">
+   	  <a href="index.html" class="home_link tShadow bold italics">Chinese Learning Course</a>
+   	  <div class="navLinks">
+        	<a href="index.html" class="navLink navLink1 glow">Home</a>
+        	<a href="#" class="navLink navLink2 glow">Who We Are</a>
+        	<a href="#" class="navLink navLink3 glow">What We Offer</a>
+        	<a href="#" class="navLink navLink4 glow">Registration</a>
+        	<a href="#" class="navLink navLink5 glow">Contact Us</a>
+        	<a href="#" class="navLink navLink6 glow">Class Schedule</a>
+        	<a href="#" class="navLink navLink7 glow">Students Say</a>
+      </div>
+    </div>
+	<div class="content padd bg_silver">
+    	<div>
+            <div class="main_image fl_lt round glow"></div>
+            <div class="fl_lt top_container mrgn-lt mrgn-rt round bg_lite shadow">
+                <div class="htext center tShadow">Quick Enquiry</div>
+                <div class="paddLT pad_tp">
+                	<form class="quick_form" name="quick_contact" id="quick_contact">
+                        <div class="padd-tp">
+                            <label for="name" class="label">Name : *</label>
+                            <input type="text" name="name" max="50" id="name" placeholder="Your Name" class="textfld round" required>
+                        </div>
+                        <div class="padd-tp">
+                            <label for="email" class="label">Email : *</label>
+                            <input type="email" name="email" max="60" id="email" placeholder="Your Email" class="textfld round" required>
+                        </div>
+                        <div class="padd-tp">
+                            <label for="phone" class="label">Contact No : </label>
+                            <input type="tel" name="phone" id="phone" placeholder="Your Contact No." max="10" class="textfld round">
+                        </div>
+                        <div class="padd-tp">
+                            <label class="label">&nbsp;</label>
+                            <input name="submit" type="submit" value="Submit" class="submit">
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="fl_lt top_container round bg_lite shadow">
+                <div class="htext center tShadow">Quick Contact</div>        
+                <div class="padd">
+                	<span class="ico call_ico">+91-98123 98877</span>
+                	<a href="mailto:mail@chinselearningcourse.com" class="ico mail_ico mrgn-tp ulink">mail@chinselearningcourse.com</a>
+                	<a href="index.html" class="ico web_ico mrgn-tp ulink">www.chinselearningcourse.com</a>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+  </div>
+        <div><!-- TemplateBeginEditable name="main" --><!-- TemplateEndEditable -->
+        
+    </div>
+	<div class="footer">
+    	<div class="navLinksF tShadow">
+        	<a href="index.html" class="navLinkF navLinkF1">Home</a>
+        	<a href="#" class="navLinkF navLinkF2">Who We Are</a>
+        	<a href="#" class="navLinkF navLinkF3">What We Offer</a>
+        	<a href="#" class="navLinkF navLinkF4">Registration</a>
+        	<a href="#" class="navLinkF navLinkF5">Contact Us</a>
+        	<a href="#" class="navLinkF navLinkF6">Class Schedule</a>
+        	<a href="#" class="navLinkF navLinkF7 lastLink">Students Say</a>
+        </div>
+      <div class="clear center white"><br />&copy: 2012 www.chineselearningcourse.com.&nbsp;&nbsp;&nbsp;&nbsp;All Rights Reserved.</div>
+    </div>
+</div>
+</body>
+</html>
